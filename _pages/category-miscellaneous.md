@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-layout: category-Miscellaneous
+layout: category
 permalink: /categories/Miscellaneous/
 author_profile: True
 ---
