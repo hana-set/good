@@ -89,13 +89,13 @@ use_math: true
 
 ![jpg]({{site.baseurl}}/assets/images/ML/2_12.png)
 
-![jpg]({{site.baseurl}}/assets/images/ML/2_13.png)
+![jpg](/assets/images/ML/2_13.png | relative_url)
 
-![jpg]({{site.baseurl}}/assets/images/ML/2_14.png)
+![jpg](/assets/images/ML/2_14.png  | relative_url)
 
-![jpg]({{site.baseurl}}/assets/images/ML/2_15.png)
+![jpg](/assets/images/ML/2_15.png  | relative_url)
 
-![jpg]({{site.baseurl}}/assets/images/ML/2_16.png)
+![jpg](/assets/images/ML/2_16.png | relative_url)
 
 - 위처럼 모든것을 포함할떄의 예측값 - 아무것도 사용하지 않을떄 예측값 = 모든 Shapley value 의 합 이 됩니다.
 
